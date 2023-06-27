@@ -5,6 +5,8 @@ A little Test project for an interview
 I have plans to later implement Riverpod and do some visual and performance improvements.
 
 
+![Screenshot](Screenshot_1.jpeg) ![Screenshot](Screenshot_2.jpeg) ![Screenshot](Screenshot_3.jpeg)
+
 
 ## Introduction
 
